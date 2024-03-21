@@ -2,6 +2,13 @@
 
 using namespace std;
 
+void  dfs(int depth, int n){
+	if (n < 10 || n > 30){
+		return ;
+	}
+	
+	
+}
 
 int main(){
 	int n;
